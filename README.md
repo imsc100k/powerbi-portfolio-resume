@@ -43,7 +43,7 @@ This Power BI Resume Dashboard highlights:
 ## Screenshots of Report Pages:
 
 ### Power BI Resume
- ![COVERPAGE](https://github.com/imsc100k/E-Commerce-Sales-Data-Analysis-Using-PowerBI/blob/main/images/Coverpage.png)
+ ![Power BI Resume Dashboard](https://github.com/imsc100k/E-Commerce-Sales-Data-Analysis-Using-PowerBI/blob/main/images/Coverpage.png)
 
 ## How to Use
 
